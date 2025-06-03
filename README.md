@@ -1,6 +1,6 @@
-My pc checker is just a thing to check a players pc to see if they are cheating offering many features like:
+!!DISCLAIMER!! - my pc checker gets access to exclusions and can do many other things that detect it as a rat and is false positives. (it technically is malware). You can freely check it with the source code.
 
-!!DISCLAIMER!! - my pc checker gets access to exclusions and can do many other things that detect it as a rat. (it technically is malware). You can freely check it with the source code.
+My pc checker is just a thing to check a players pc to see if they are cheating offering many features like:
 
 ki/tickle's pc checker
 [1] Open Downloads folder
